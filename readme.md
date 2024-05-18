@@ -1,5 +1,11 @@
-# **Program.cs**
 
+#net #netfundamentos #Dio #Doc #programming #bootcamp #bootcampAvanade #avanade #curso
+
+# Program.cs
+
+- Repositorio GitHub: https://github.com/LdeAlejandro/Net-Fundamentos.git.
+- Documento relacionado a la practica: [[Doc Pessoa.cs]]
+- Codigo: [[Programacion/Net/Cursos/Curso Net Dio/Bootcamp Avanade/Fundamentos Net/Program.cs|Program.cs]]
 ## **1. Creación y Uso de Objetos**
 
 **Descripción:** Esta sección se centra en la creación y manipulación de objetos en C#. Se utiliza la clase `Pessoa` del espacio de nombres `ExemploFundamentos.Common.Models` como ejemplo.
@@ -243,10 +249,14 @@ foreach (string item in itens)
     Console.WriteLine($"- {item}");
 }
 ```
-,  Doc Pessoa.cs: #net #netfundamentos #Dio #Doc #programming #bootcamp #bootcampAvanade #avanade #curso
+#net #netfundamentos #Dio #Doc #programming #bootcamp #bootcampAvanade #avanade #curso
 
-# **Pessoa.cs**
+# Pessoa.cs
 
+
+- Repositorio GitHub: https://github.com/LdeAlejandro/Net-Fundamentos.git.
+- Documento relacionado a la practica: [[Programacion/Net/Cursos/Curso Net Dio/Bootcamp Avanade/Fundamentos Net/Doc Program.cs|Doc Program.cs]]
+- Codigo: [[Pessoa.cs]]
 #### Descripción
 
 La clase `Pessoa` representa a una persona y contiene información básica como el nombre y la edad. Además, tiene un método para presentar esta información junto con la fecha y hora actuales.
